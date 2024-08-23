@@ -1,0 +1,13 @@
+import pandas as pd
+
+# Create data for the DataFrame
+data = {
+    'Column 1': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    'Column 2': ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J']
+}
+
+# Create the DataFrame
+df = pd.DataFrame(data)
+
+# Display the DataFrame
+print(df)
