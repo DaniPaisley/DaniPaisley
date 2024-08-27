@@ -1,0 +1,110 @@
+<div class="new-footer">
+    <div class="container d-flex align-items-center justify-content-center">
+        <div class="footer-content">
+            <div class="site-footer">
+                <div class="row">
+                    <!-- Column 1 -->
+                    <div class="col-12 col-md-4 mb-3">
+                        <button class="btn btn-toggle d-md-none accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#visitContent" aria-expanded="false" aria-controls="visitContent">
+                            Visit
+                        </button>
+                        <div class="collapse d-md-block" id="visitContent">
+                            <div class="category-list">
+                                <div class="category-parent d-none d-md-block">Visit</div>
+                                <ul class="category-children list-unstyled">
+                                    <li><a href="https://schedule.lib.calpoly.edu/" title="Hours">Hours</a></li>
+                                    <li><a href="https://lib.calpoly.edu/about-and-contact/people/"
+                                            title="Staff Directory">Staff Directory</a></li>
+                                    <li><a href="https://lib.calpoly.edu/about-and-contact/careers/"
+                                            title="Jobs at Kennedy Library">Jobs at Kennedy Library</a></li>
+                                    <li><a
+                                            href="https://securelb.imodules.com/s/699/bp19/interior.aspx?sid=699&gid=1&sitebuilder=1&pgid=961&cid=2272&bledit=1&dids=197.195.333.266.332.261.302.&sort=1"
+                                            title="Give to Kennedy Library">Give to Kennedy Library</a></li>
+                                    <li><a href="https://guides.lib.calpoly.edu/updates"
+                                            title="LIBRARY OPERATIONS UPDATES GUIDE"><i class="fa fa-arrow-right" aria-hidden="true" style="color: #BD8B13;"></i>  LIBRARY OPERATIONS UPDATES GUIDE</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Column 2 -->
+                    <div class="col-12 col-md-4 mb-3">
+                        <button class="btn btn-toggle d-md-none accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#servicesContent" aria-expanded="false" aria-controls="servicesContent">
+                            Services
+                        </button>
+                        <div class="collapse d-md-block" id="servicesContent">
+                            <div class="category-list">
+                                <div class="category-parent d-none d-md-block">Services</div>
+                                <ul class="category-children list-unstyled">
+                                    <li><a href="https://lib.calpoly.edu/help-and-support/get-help" title="Research Help">Research Help</a></li>
+                                    <li><a href="https://lib.calpoly.edu/search-and-find/borrow-renew-request/"
+                                            title="Borrow, Renew, Request">Borrow, Renew, Request</a></li>
+                                    <li><a href="https://tech.calpoly.edu/services/student-printing/"
+                                            title="Where can I print?">Where can I print?</a></li>
+                                    <li><a href="https://calpoly.getconnect2.com/" title="Tech Rental">Tech Rental</a></li>
+                                    <li><a
+                                            href="https://csu-calpoly.primo.exlibrisgroup.com/discovery/account?vid=01CALS_PSU:01CALS_PSU&section=overview&lang=en/"
+                                            title="MY LIBRARY ACCOUNT"><i class="fa fa-arrow-right" aria-hidden="true" style="color: #BD8B13;"></i>  MY LIBRARY ACCOUNT</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Column 3 -->
+                    <div class="col-12 col-md-4 mb-3">
+                        <button class="btn btn-toggle d-md-none accordion-button" type="button" data-bs-toggle="collapse"
+                            data-bs-target="#researchContent" aria-expanded="false" aria-controls="researchContent">
+                            Research <i class="fa fa-arrow-down" aria-hidden="true"></i>
+                        </button>
+                        <div class="collapse d-md-block" id="researchContent">
+                            <div class="category-list">
+                                <div class="category-parent d-none d-md-block">Research</div>
+                                <ul class="category-children list-unstyled">
+                                    <li><a href="https://guides.lib.calpoly.edu/az/databases/" title="Research Databases">Research Databases</a></li>
+                                    <li><a href="https://guides.lib.calpoly.edu/" title="Research Guides">Research Guides</a></li>
+                                    <li><a href="https://guides.lib.calpoly.edu/DPL/" title="Digital Projects Lab">Digital Projects Lab</a></li>
+                                    <li><a href="https://digitalcommons.calpoly.edu/" title="Digital Commons @ Cal Poly">Digital Commons @ Cal Poly</a></li>
+                                    <li><a
+                                            href="https://csu-calpoly.primo.exlibrisgroup.com/discovery/search?vid=01CALS_PSU:01CALS_PSU&lang=en"
+                                            title="ONESEARCH"><i class="fa fa-arrow-right" aria-hidden="true" style="color: #BD8B13;"></i>  ONESEARCH</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="global-footer">
+                <div class="row">
+                    <div class="col-md-8 text-center mb-3">
+                        <img src="https://libapps.s3.amazonaws.com/customers/2028/images/rekl-logo-white-longrectangle.png"
+                            class="footer-logo img-fluid mx-auto" alt="Cal Poly Logo">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <div class="d-flex flex-wrap justify-content-center">
+                            <!-- Footer links -->
+                            <!-- Each link wrapped in a div for better control -->
+                            <div><a target="_blank" rel="noopener noreferrer" href="https://lib.calpoly.edu/"
+                                    class="global-footer-link">Library Home</a></div>
+                            <div><a target="_blank" rel="noopener noreferrer"
+                                    href="https://accessibility.calpoly.edu/website-accessibility-statement/"
+                                    class="global-footer-link">Web Accessibility Statement</a></div>
+                            <div><a target="_blank" rel="noopener noreferrer"
+                                    href="https://www.calpoly.edu/diversity-equity-and-inclusion/"
+                                    class="global-footer-link">Diversity, Equity and Inclusion</a></div>
+                            <div><a target="_blank" rel="noopener noreferrer" href="https://www.calpoly.edu/privacy"
+                                    class="global-footer-link">Privacy Notice</a></div>
+                            <div><a target="_blank" rel="noopener noreferrer"
+                                    href="https://afd.calpoly.edu/public-safety/"
+                                    class="global-footer-link">Campus Safety</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
